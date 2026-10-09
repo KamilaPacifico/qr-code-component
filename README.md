@@ -19,8 +19,8 @@ O desafio era construir um componente de cartão com um código QR e deixá-lo o
 
 ### Links
 
-- Solução (Frontend Mentor): ADICIONE_AQUI_A_URL
-- Site publicado: ADICIONE_AQUI_A_URL
+- Solução:  https://kamilapacifico.github.io/qr-code-component
+- Site publicado: https://kamilapacifico.github.io/qr-code-component/
 
 ## Meu processo
 
